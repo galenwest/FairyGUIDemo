@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="800,600">
+  <displayList>
+    <image id="n0_9nue" name="n0" src="9nue0" fileName="2.png" xy="-275,4"/>
+    <image id="n1_9nue" name="n1" src="9nue1" fileName="3.png" xy="806,459"/>
+  </displayList>
+  <transition name="t1">
+    <item time="0" type="XY" target="n0_9nue" tween="true" startValue="-275,4.5" endValue="4,4.5" duration="6"/>
+    <item time="0" type="XY" target="n1_9nue" tween="true" startValue="806,459.5" endValue="402,459.5" duration="6"/>
+    <item time="18" type="XY" target="n0_9nue" tween="true" startValue="528,4.5" endValue="802,4.5" duration="6"/>
+    <item time="18" type="XY" target="n1_9nue" tween="true" startValue="2,459.5" endValue="-398,459.5" duration="6"/>
+  </transition>
+</component>

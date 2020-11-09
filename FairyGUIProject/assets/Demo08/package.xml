@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="40ewhpaz">
+  <resources>
+    <component id="wwbz0" name="Main.xml" path="/" exported="true"/>
+    <image id="wwbz1" name="bg.png" path="/"/>
+    <image id="wwbz2" name="center.png" path="/"/>
+    <image id="wwbz3" name="from.png" path="/"/>
+    <component id="wwbz4" name="Circle.xml" path="/"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

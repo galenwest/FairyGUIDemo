@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="600,400">
+  <displayList>
+    <image id="n7_9nue" name="n7" src="9nuen" fileName="red.png" xy="-464,319" group="n12_9nue"/>
+    <image id="n8_9nue" name="n8" src="9nuem" fileName="power.png" xy="-443,324" group="n12_9nue"/>
+    <text id="n9_9nue" name="n9" xy="-288,329" size="261,54" group="n12_9nue" font="ui://4vhuo8su9nue1l" fontSize="12" letterSpacing="-18" autoSize="none" text="100000"/>
+    <movieclip id="n10_9nue" name="n10" src="9nue1m" fileName="Fire/Fire.jta" xy="-80,271" pivot="0.5,0.661" size="53,128" group="n12_9nue"/>
+    <text id="n11_9nue" name="n11" xy="-288,286" size="171,40" group="n12_9nue" font="ui://4vhuo8su9nue1k" fontSize="12" letterSpacing="-2" autoSize="none" text="+2000"/>
+    <group id="n12_9nue" name="n12" xy="-464,271" size="462,128" advanced="true"/>
+  </displayList>
+  <transition name="t1" frameRate="30">
+    <item time="0" type="Alpha" target="n10_9nue" value="0"/>
+    <item time="0" type="Alpha" target="n12_9nue" value="1"/>
+    <item time="0" type="Size" target="n10_9nue" value="0,0"/>
+    <item time="0" type="XY" target="n12_9nue" tween="true" startValue="-464,271" endValue="-22,271" duration="12" label2="AddValue"/>
+    <item time="12" type="Alpha" target="n10_9nue" value="1"/>
+    <item time="12" type="Size" target="n10_9nue" tween="true" startValue="-2,0" endValue="53,128" duration="24"/>
+    <item time="12" type="XY" target="n12_9nue" label="AddValue" tween="true" startValue="-22,271" endValue="26,271" duration="24"/>
+    <item time="36" type="Alpha" target="n12_9nue" tween="true" startValue="1" endValue="0" duration="12"/>
+    <item time="36" type="XY" target="n12_9nue" tween="true" startValue="26,271" endValue="1,118" duration="12"/>
+  </transition>
+</component>

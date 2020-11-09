@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="800,600">
+  <controller name="c1" alias="Trigger" exported="true" pages="2,,3," selected="0"/>
+  <displayList>
+    <text id="n3_u4jg" name="n3" xy="395,111" size="134,103" fontSize="12" ubb="true" autoSize="none" text="[color=#00ff00]aaa[/color]&#xA;[color=#00ffaa]aaa[/color]&#xA;[color=#88ffaa]aaa[/color]"/>
+    <text id="n4_u4jg" name="n4" xy="379,263" size="355,84" font="ui://4x5zlgq2u4jgg" fontSize="12" autoSize="none" text="012asdfasdf34567890"/>
+    <loader id="n5_u4jg" name="n5" xy="519,40" size="37,24" url="ui://4x5zlgq2u4jgl" autoSize="true"/>
+    <image id="n6_u4jg" name="n6" src="u4jgl" fileName="k26.png" xy="603,41"/>
+    <loader id="n8_u4jg" name="n8" xy="83,66" size="64,128" url="ui://4x5zlgq2u4jg3" autoSize="true">
+      <gearDisplay controller="c1" pages="2,3"/>
+      <gearXY controller="c1" pages="2,3" values="83,66|194,309" tween="true"/>
+    </loader>
+  </displayList>
+</component>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="800,600">
+  <displayList>
+    <component id="n0_wwbz" name="n0" src="wwbza" fileName="ButtonOpen.xml" xy="7,7"/>
+  </displayList>
+</component>

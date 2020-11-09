@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="112,23" extention="Slider">
+  <displayList>
+    <image id="n0_9nue" name="n0" src="9nueq" fileName="p10_png.png" xy="0,0" size="112,23">
+      <relation target="" sidePair="width-width,height-height"/>
+    </image>
+    <image id="n1_9nue" name="bar" src="9nuer" fileName="p11_png.png" xy="6,10" size="99,3"/>
+    <component id="n2_9nue" name="grip" src="9nuev" fileName="Slider1_grip.xml" xy="96,2">
+      <relation target="n1_9nue" sidePair="right-right"/>
+    </component>
+  </displayList>
+  <Slider/>
+</component>

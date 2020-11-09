@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="23,200" extention="ScrollBar">
+  <displayList>
+    <image id="n0_9nue" name="n0" src="9nue14" fileName="p13_png.png" xy="0,0" size="23,200">
+      <relation target="" sidePair="height-height"/>
+    </image>
+    <graph id="n1_9nue" name="bar" xy="0,12" size="23,174">
+      <relation target="" sidePair="height-height"/>
+    </graph>
+    <component id="n2_9nue" name="arrow1" src="9nue16" fileName="ScrollBar1_arrow1.xml" xy="0,0"/>
+    <component id="n3_9nue" name="arrow2" src="9nue17" fileName="ScrollBar1_arrow2.xml" xy="0,180">
+      <relation target="" sidePair="bottom-bottom"/>
+    </component>
+    <component id="n4_9nue" name="grip" src="9nue18" fileName="ScrollBar1_grip.xml" xy="0,20"/>
+  </displayList>
+  <ScrollBar fixedGripSize="true"/>
+</component>

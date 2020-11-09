@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="615,387" pivot="0.5,0.5">
+  <displayList>
+    <component id="n1_wwbz" name="frame" src="wwbzc" fileName="windowframe.xml" xy="0,0"/>
+    <graph id="n2_wwbz" name="n2" xy="194,65" size="210,282"/>
+    <component id="n3_wwbz" name="n3" src="wwbzf" fileName="BtnRight.xml" xy="452,165" size="50,60"/>
+    <component id="n4_wwbz" name="n4" src="wwbze" fileName="BtnLeft.xml" xy="101,165" size="50,60"/>
+  </displayList>
+</component>

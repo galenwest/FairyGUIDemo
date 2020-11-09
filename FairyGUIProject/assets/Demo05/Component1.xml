@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="600,400" mask="n1_mab3" reversedMask="true">
+  <displayList>
+    <graph id="n0_mab3" name="n0" xy="0,0" size="600,400" type="rect" lineSize="0" fillColor="#63000000">
+      <relation target="" sidePair="width-width,height-height"/>
+    </graph>
+    <graph id="n1_mab3" name="n1" xy="418,195" size="100,100" touchable="false" type="eclipse"/>
+    <movieclip id="n2_mab3" name="n2" src="9nue3" fileName="rswcfhd.jta" xy="339,220">
+      <relation target="n1_mab3" sidePair="middle-middle,right-left"/>
+    </movieclip>
+  </displayList>
+</component>

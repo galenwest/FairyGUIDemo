@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="4vhuo8su">
+  <resources>
+    <component id="9nue0" name="AttackUp.xml" path="/Component/" exported="true"/>
+    <image id="9nue1" name="0000_+.png" path="/Value/Add/"/>
+    <image id="9nue2" name="0001_9.png" path="/Value/Add/"/>
+    <image id="9nue3" name="0002_8.png" path="/Value/Add/"/>
+    <image id="9nue4" name="0003_7.png" path="/Value/Add/"/>
+    <image id="9nue5" name="0004_6.png" path="/Value/Add/"/>
+    <image id="9nue6" name="0005_5.png" path="/Value/Add/"/>
+    <image id="9nue7" name="0006_4.png" path="/Value/Add/"/>
+    <image id="9nue8" name="0007_3.png" path="/Value/Add/"/>
+    <image id="9nue9" name="0008_2.png" path="/Value/Add/"/>
+    <image id="9nuea" name="0009_1.png" path="/Value/Add/"/>
+    <image id="9nueb" name="0010_0.png" path="/Value/Add/"/>
+    <image id="9nuec" name="h0.png" path="/Value/Attack/"/>
+    <image id="9nued" name="h1.png" path="/Value/Attack/"/>
+    <image id="9nuee" name="h2.png" path="/Value/Attack/"/>
+    <image id="9nuef" name="h3.png" path="/Value/Attack/"/>
+    <image id="9nueg" name="h4.png" path="/Value/Attack/"/>
+    <image id="9nueh" name="h5.png" path="/Value/Attack/"/>
+    <image id="9nuei" name="h6.png" path="/Value/Attack/"/>
+    <image id="9nuej" name="h7.png" path="/Value/Attack/"/>
+    <image id="9nuek" name="h8.png" path="/Value/Attack/"/>
+    <image id="9nuel" name="h9.png" path="/Value/Attack/"/>
+    <image id="9nuem" name="power.png" path="/"/>
+    <image id="9nuen" name="red.png" path="/"/>
+    <image id="9nueo" name="100000.png" path="/Fire/"/>
+    <image id="9nuep" name="100001.png" path="/Fire/"/>
+    <image id="9nueq" name="100002.png" path="/Fire/"/>
+    <image id="9nuer" name="100003.png" path="/Fire/"/>
+    <image id="9nues" name="100004.png" path="/Fire/"/>
+    <image id="9nuet" name="100005.png" path="/Fire/"/>
+    <image id="9nueu" name="100006.png" path="/Fire/"/>
+    <image id="9nuev" name="100007.png" path="/Fire/"/>
+    <image id="9nuew" name="100008.png" path="/Fire/"/>
+    <image id="9nuex" name="100009.png" path="/Fire/"/>
+    <image id="9nuey" name="100010.png" path="/Fire/"/>
+    <image id="9nuez" name="100011.png" path="/Fire/"/>
+    <image id="9nue10" name="100012.png" path="/Fire/"/>
+    <image id="9nue11" name="100013.png" path="/Fire/"/>
+    <image id="9nue12" name="100014.png" path="/Fire/"/>
+    <image id="9nue13" name="100015.png" path="/Fire/"/>
+    <image id="9nue14" name="100016.png" path="/Fire/"/>
+    <image id="9nue15" name="100017.png" path="/Fire/"/>
+    <image id="9nue16" name="100018.png" path="/Fire/"/>
+    <image id="9nue17" name="100019.png" path="/Fire/"/>
+    <image id="9nue18" name="100020.png" path="/Fire/"/>
+    <image id="9nue19" name="100021.png" path="/Fire/"/>
+    <image id="9nue1a" name="100022.png" path="/Fire/"/>
+    <image id="9nue1b" name="100023.png" path="/Fire/"/>
+    <image id="9nue1c" name="100024.png" path="/Fire/"/>
+    <image id="9nue1d" name="100025.png" path="/Fire/"/>
+    <image id="9nue1e" name="100026.png" path="/Fire/"/>
+    <image id="9nue1f" name="100027.png" path="/Fire/"/>
+    <image id="9nue1g" name="100028.png" path="/Fire/"/>
+    <image id="9nue1h" name="100029.png" path="/Fire/"/>
+    <image id="9nue1i" name="100030.png" path="/Fire/"/>
+    <image id="9nue1j" name="100031.png" path="/Fire/"/>
+    <font id="9nue1k" name="AddValue.fnt" path="/Value/Add/" exported="true"/>
+    <font id="9nue1l" name="AttackValue.fnt" path="/Value/Attack/" exported="true"/>
+    <movieclip id="9nue1m" name="Fire.jta" path="/Fire/" exported="true"/>
+    <image id="9nue1o" name="b4.png" path="/"/>
+    <image id="9nue1p" name="b5.png" path="/"/>
+    <component id="9nue1q" name="Fore.xml" path="/Component/" exported="true"/>
+    <component id="9nue1r" name="Button.xml" path="/" exported="true"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

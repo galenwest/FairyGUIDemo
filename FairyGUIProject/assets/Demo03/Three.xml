@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="800,600">
+  <displayList>
+    <component id="n0_9nue" name="n0" src="9nue1" fileName="Button1.xml" xy="116,108" group="n2_9nue">
+      <relation target="n1_9nue" sidePair="width-width,height-height,center-center,middle-middle"/>
+    </component>
+    <text id="n1_9nue" name="n1" xy="116,107" size="200,100" group="n2_9nue" fontSize="12" autoSize="none" text="">
+      <relation target="n0_9nue" sidePair="width-width,height-height,center-center,middle-middle"/>
+    </text>
+    <group id="n2_9nue" name="n2" xy="116,107" size="200,100"/>
+  </displayList>
+</component>

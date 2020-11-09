@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="4uq70z2z">
+  <resources>
+    <image id="wwbz0" name="0.png" path="/"/>
+    <image id="wwbz1" name="5.png" path="/"/>
+    <image id="wwbz2" name="9.png" path="/"/>
+    <image id="wwbz3" name="10.png" path="/"/>
+    <image id="wwbz4" name="11.png" path="/"/>
+    <image id="wwbz5" name="12.png" path="/"/>
+    <image id="wwbz6" name="13.png" path="/"/>
+    <image id="wwbz7" name="r3.png" path="/"/>
+    <swf id="wwbz8" name="qtm01d.swf" path="/" exported="true"/>
+    <component id="wwbz9" name="Main.xml" path="/" exported="true"/>
+    <component id="wwbza" name="ButtonOpen.xml" path="/" exported="true"/>
+    <component id="wwbzb" name="PlayerWindow.xml" path="/" exported="true"/>
+    <component id="wwbzc" name="windowframe.xml" path="/" exported="true"/>
+    <component id="wwbzd" name="Close.xml" path="/" exported="true"/>
+    <component id="wwbze" name="BtnLeft.xml" path="/" exported="true"/>
+    <component id="wwbzf" name="BtnRight.xml" path="/" exported="true"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

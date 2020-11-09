@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="4yj04y4f">
+  <resources>
+    <component id="mab30" name="Six.xml" path="/" exported="true"/>
+    <image id="mab31" name="n1.png" path="/" exported="true"/>
+    <image id="mab32" name="n2.png" path="/" exported="true"/>
+    <image id="mab33" name="n3.png" path="/" exported="true"/>
+    <image id="mab34" name="n4.png" path="/" exported="true"/>
+    <image id="mab35" name="n5.png" path="/" exported="true"/>
+    <component id="mab36" name="item.xml" path="/"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

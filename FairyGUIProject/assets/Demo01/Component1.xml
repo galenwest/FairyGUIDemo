@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1280,720">
+  <displayList>
+    <image id="n7_9nue" name="n7" src="9nuem" fileName="4.png" xy="417,-366" pivot="0.5,0"/>
+  </displayList>
+  <transition name="t0" frameRate="30">
+    <item time="0" type="XY" target="n7_9nue" tween="true" startValue="417,-366" endValue="418,279" duration="6"/>
+    <item time="6" type="XY" target="n7_9nue" tween="true" startValue="418,279" endValue="418,167" duration="6"/>
+    <item time="12" type="Rotation" target="n7_9nue" tween="true" startValue="0" endValue="15" duration="6"/>
+    <item time="18" type="Rotation" target="n7_9nue" tween="true" startValue="15" endValue="-8" duration="6"/>
+    <item time="24" type="Rotation" target="n7_9nue" tween="true" startValue="-8" endValue="0" duration="6"/>
+    <item time="30" type="Rotation" target="n7_9nue" value="0"/>
+  </transition>
+</component>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="500,300">
+  <displayList>
+    <graph id="n5_u4jg" name="n5" xy="399,17" size="100,100" type="rect" fillColor="#ffff9900">
+      <relation target="" sidePair="right-right"/>
+    </graph>
+    <graph id="n6_u4jg" name="n6" xy="384,170" size="115,100" type="rect" fillColor="#ff0099cc">
+      <relation target="n5_u4jg" sidePair="right-right"/>
+    </graph>
+    <component id="n7_9nue" name="n7" src="9nuep" fileName="Button1.xml" xy="121,36">
+      <relation target="" sidePair="left-left"/>
+    </component>
+    <list id="n8_9nue" name="n8" xy="1,108" size="200,191" overflow="scroll" scrollBar="auto" scrollBarRes="ui://4x5zlgq29nue19," foldInvisibleItems="true">
+      <item url="ui://4x5zlgq29nuep"/>
+      <item url="ui://4x5zlgq29nuep"/>
+      <item url="ui://4x5zlgq29nuep"/>
+      <item url="ui://4x5zlgq29nuep"/>
+      <item url="ui://4x5zlgq29nuep"/>
+      <item url="ui://4x5zlgq29nuep"/>
+      <item url="ui://4x5zlgq29nuep"/>
+      <item url="ui://4x5zlgq29nuep"/>
+      <item url="ui://4x5zlgq29nuep"/>
+      <item url="ui://4x5zlgq29nuep"/>
+      <item url="ui://4x5zlgq29nuep"/>
+    </list>
+    <component id="n9_9nue" name="n9" src="9nues" fileName="ProgressBar1.xml" xy="1,5">
+      <ProgressBar value="50" max="100"/>
+    </component>
+    <component id="n10_9nue" name="n10" src="9nuew" fileName="Slider1.xml" xy="121,7">
+      <Slider value="50" max="100"/>
+    </component>
+    <component id="n11_9nue" name="n11" src="9nuez" fileName="Slider2.xml" xy="1,30">
+      <Slider value="50" max="100"/>
+    </component>
+    <text id="n14_9nue" name="n14" xy="2,55" size="126,54" font="ui://4x5zlgq2u4jgg" fontSize="12" autoSize="none" text="" input="true" prompt="123" keyboardType="4"/>
+  </displayList>
+</component>

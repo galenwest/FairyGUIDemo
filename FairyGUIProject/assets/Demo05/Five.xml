@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="600,400">
+  <displayList>
+    <component id="n1_mab3" name="n1" src="mab31s" fileName="Button1.xml" xy="157,84"/>
+    <movieclip id="n2_mab3" name="n2" src="9nue2" fileName="quan.jta" xy="497,297" size="98,97" group="n3_mab3">
+      <relation target="n0_9nue" sidePair="center-center,middle-middle"/>
+    </movieclip>
+    <component id="n0_9nue" name="n0" src="9nue4" fileName="Button.xml" xy="512,307" size="69,79" group="n3_mab3">
+      <relation target="n2_mab3" sidePair="center-center,middle-middle"/>
+    </component>
+    <group id="n3_mab3" name="n3" xy="497,297" size="98,97" advanced="true">
+      <relation target="" sidePair="right-right,bottom-bottom"/>
+    </group>
+  </displayList>
+</component>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="42lq6lhc">
+  <resources>
+    <component id="9nue0" name="Five.xml" path="/" exported="true"/>
+    <image id="9nue1" name="btnimage.png" path="/"/>
+    <movieclip id="9nue2" name="quan.jta" path="/"/>
+    <movieclip id="9nue3" name="rswcfhd.jta" path="/"/>
+    <component id="9nue4" name="Button.xml" path="/" exported="true"/>
+    <image id="mab35" name="b4.png" path="/"/>
+    <image id="mab36" name="b5.png" path="/"/>
+    <component id="mab31s" name="Button1.xml" path="/" exported="true"/>
+    <component id="mab37" name="Component1.xml" path="/" exported="true"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

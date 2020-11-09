@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="800,600">
+  <displayList>
+    <component id="n7_g18r" name="joystick" src="wwbz4" fileName="Circle.xml" xy="75,323"/>
+    <text id="n5_wwbz" name="n5" xy="455,77" size="94,42" fontSize="30" text="角度："/>
+    <graph id="n4_wwbz" name="n4" xy="0,197" size="370,403" type="rect" lineColor="#00000000" fillColor="#00000000">
+      <relation target="" sidePair="left-left,bottom-bottom"/>
+    </graph>
+    <text id="n8_lpj1" name="n8" xy="455,140" size="94,42" fontSize="30" text="状态："/>
+    <text id="n9_lpj1" name="n6" xy="544,77" size="198,42" fontSize="30" autoSize="none" text=""/>
+    <text id="n10_lpj1" name="n10" xy="544,140" size="198,42" fontSize="30" autoSize="none" text=""/>
+  </displayList>
+</component>

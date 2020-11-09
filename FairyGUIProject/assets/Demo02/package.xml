@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="442ofu5t">
+  <resources>
+    <image id="9nue0" name="2.png" path="/"/>
+    <image id="9nue1" name="3.png" path="/"/>
+    <image id="9nue2" name="b4.png" path="/"/>
+    <image id="9nue3" name="b5.png" path="/"/>
+    <sound id="9nue4" name="BUZZ4.wav" path="/"/>
+    <component id="9nue5" name="Button1.xml" path="/" exported="true"/>
+    <component id="9nue6" name="Two.xml" path="/" exported="true"/>
+    <component id="9nue7" name="Boss.xml" path="/" exported="true"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>
